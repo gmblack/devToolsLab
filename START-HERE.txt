@@ -1,0 +1,21 @@
+CAMPUS MAKERS NIGHT — STUDENT PRACTICE FILES
+
+Extract this entire folder before using it. Keep assets/ and data/ in place.
+
+DAY 1: Open index.html in Chrome. The page contains intentional problems.
+Use your Day 1 worksheet. You do not need to edit the files.
+
+DAY 2: Use the HTTP address supplied by your instructor (or run a local
+server as described below). Do not use a file:// address for the Network
+lab: its fetch behavior and errors differ from the expected HTTP results.
+
+LOCAL SERVER (if Python 3 is installed):
+Open a terminal in this student-lab folder.
+Windows: py -3 -m http.server 8000 --bind 127.0.0.1
+macOS/Linux: python3 -m http.server 8000 --bind 127.0.0.1
+Then open http://127.0.0.1:8000 in Chrome. Stop with Ctrl+C.
+127.0.0.1 refers to your own computer, not your instructor's computer.
+
+No login, external API, package installation, or personal data is required.
+Buttons only change the page. Nothing is submitted or stored.
+The source code is supplied for inspection; writing code is not required.
